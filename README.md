@@ -22,4 +22,4 @@ Automate the tedious process of creating user accounts on your e-commerce websit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ECommerceAutomationSuite.git
+   git clone https://github.com/ByeShan/ECommerceAutomationSuite.git
